@@ -1,4 +1,4 @@
-# login_template
+# user_login
 
 运行之前  makemigrations + migrate，生成数据库表
 
